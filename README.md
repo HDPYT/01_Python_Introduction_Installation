@@ -1,9 +1,9 @@
 # 01_Python_Introduction_Installation
-Python
+<h1> Python3 </h1>
 
-Creator: Guido Van Rossum
-Country: Dutch
-He is still Alive
+Creator: Guido Van Rossum <br>
+Country: Dutch <br>
+He is still Alive <br>
 D.O.B: 31st Jan 1956
 
 Python was developed in Netherlands
@@ -11,24 +11,22 @@ CWI : Centrum Wiskunde & Informatica
 
 
 The Name python came from a T.V Serial called
-Monty's Python Flying Circus.
-Type: Comedy and Circus
-Year: 1969
+Monty's Python Flying Circus. <br>
+Type: Comedy and Circus <br>
+Year: 1969 <br>
 Seasons: 4
 
 
-C language was developed by Dennis Ritchie
-In the year: 1972
-C language is considered as mother of all the programming languages.
-Place: AT & T bell labs
-AT & T --> American Telephone & Telegraph Company
-
-
-Java Lanuage was developed by James Goshling
+C language was developed by Dennis Ritchie <br>
+In the year: 1972 <br>
+C language is considered as mother of all the programming languages. <br>
+Place: AT & T bell labs <br>
+AT & T --> American Telephone & Telegraph Company <br>
+Java Lanuage was developed by James Goshling <br>
 In the year: 1995
--------------------------------------------------------------------
-Python Dates
 
+Python Dates
+-------------------------------------------------------------------
 
 Python Developed / Implementation: Dec 1989
 
@@ -40,14 +38,14 @@ PSF: Python Software Foundation on March 6th 2001
 
 Python3: Dec 3rd 2008
 
+Software Installation
 ------------------------------------------------------------------------
-Python Software Download: python.org
+Website: python.org
 
 version: 3.10.4
+
+OS ( Operating System) 
 -------------------------------------------------------------------------
-
-OS ( Operating System)
-
 1) Windows
 2) Linux
 3) Android
